@@ -158,7 +158,7 @@ p {
   color: #fff;
   line-height: 1.07;
   letter-spacing: 0.02em;
-  max-width: 496px;
+  min-width: 496px;
   margin: 0 auto 48px auto;
 }
 
@@ -186,7 +186,6 @@ p {
 /* -------------------------global-values--------------------------- */
 
 .team__title,
-.benefits__title,
 .portfolio__title {
   /* font-weight: 700; */
   font-size: 36px;
